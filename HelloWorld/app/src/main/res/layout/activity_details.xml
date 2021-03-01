@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id = "@+id/display_email"
+        android:layout_marginTop="300dp"
+        android:text="Value 1"
+        android:layout_marginLeft="179dp"/>
+
+    <TextView
+        android:id="@+id/display_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:text="Value 2"
+        android:layout_marginLeft="179dp"/>
+
+</RelativeLayout>
