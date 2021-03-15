@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="300dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/img1"
+                android:layout_width="300dp"
+                android:layout_height="match_parent"
+                android:background="#c1c1c1"
+                android:onClick="clickHandler"
+                android:src="@drawable/a" />
+
+            <ImageView
+                android:id="@+id/img2"
+                android:layout_width="300dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dp"
+                android:background="#c1c1c1"
+                android:onClick="clickHandler"
+                android:src="@drawable/b" />
+
+            <ImageView
+                android:id="@+id/img3"
+                android:layout_width="300dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dp"
+                android:background="#c1c1c1"
+                android:onClick="clickHandler"
+                android:src="@drawable/c" />
+
+            <ImageView
+                android:id="@+id/img4"
+                android:layout_width="300dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dp"
+                android:background="#c1c1c1"
+                android:onClick="clickHandler"
+                android:src="@drawable/d" />
+
+            <ImageView
+                android:id="@+id/img5"
+                android:layout_width="300dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dp"
+                android:background="#c1c1c1"
+                android:onClick="clickHandler"
+                android:src="@drawable/e" />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+
+
+</LinearLayout>
