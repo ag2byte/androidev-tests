@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">l4q1</string>
+    <string name="q1">When was Microsoft Founded?</string>
+    <string name="q2">Who created Facebook</string>
+    <string name="q3">Who built React?</string>
+
+
+
+    <string name="correct_answer">Correct ✅</string>
+    <string name="wrong_answer"> Wrong ❌</string>
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+</resources>
