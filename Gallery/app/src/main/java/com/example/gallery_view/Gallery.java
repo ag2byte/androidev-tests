@@ -20,7 +20,7 @@ public class Gallery extends AppCompatActivity {
 
     }
     public void clickHandler(View v){
-        Toast.makeText(this,  String.valueOf(v.getId()), Toast.LENGTH_SHORT).show();
+//        Toast.makeText(this,  String.valueOf(v.getId()), Toast.LENGTH_SHORT).show();
         int[] images= {
                 R.drawable.a,
                 R.drawable.b,
