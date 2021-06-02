@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Media Player</string>
+    <string-array name="SongNames">
+        <item>Dzeko - 2020 In 10 Minutes</item>
+        <item>Billie Eilish, Khalid - lovely</item>
+        <item>Warriyo - Mortals (feat. Laura Brehm)</item>
+        <item>DEAF KEV - Invincible </item>
+    </string-array>
+</resources>

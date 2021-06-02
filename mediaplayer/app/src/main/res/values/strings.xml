@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mediaplayer</string>
+
+    <string-array name="songs">
+        <item>DeathNote L Theme</item>
+        <item>Disarm</item>
+        <item>Under the Water</item>
+        <item>Kiminonawa</item>
+
+    </string-array>
+</resources>
